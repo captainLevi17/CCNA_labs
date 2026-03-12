@@ -36,6 +36,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 19 | DTP & VTP                     |
 | Day 20 | Analyzing STP                 |
 | Day 21 | Configuring STP 		 |
+| Day 22 | Rapid STP			 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
