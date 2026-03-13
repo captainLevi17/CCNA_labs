@@ -37,6 +37,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 20 | Analyzing STP                 |
 | Day 21 | Configuring STP 		 |
 | Day 22 | Rapid STP			 |
+| Day 23 | Ether-channel	  	 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
