@@ -38,6 +38,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 21 | Configuring STP 		 |
 | Day 22 | Rapid STP			 |
 | Day 23 | Ether-channel	  	 |
+| Day 24 | Floating static route	 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
