@@ -39,6 +39,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 22 | Rapid STP			 |
 | Day 23 | Ether-channel	  	 |
 | Day 24 | Floating static route	 |
+| Day 25 | EIGRP Configuration		 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
