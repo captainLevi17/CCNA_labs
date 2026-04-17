@@ -44,6 +44,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 27 | OSPF Part 2			 |
 | Day 28 | OSPF Part 3			 |
 | Day 29 | HSRP Configuration		 |
+| Day 31 | IPv6 Configuration Part 1	 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
