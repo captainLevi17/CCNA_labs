@@ -48,7 +48,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 32 | IPv6 Configuration Part 2	 |
 | Day 33 | IPv6 Static Routes		 |
 | Day 34 | Standard ACLs		 |
-
+| Day 35 | Extended ACLs		 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
