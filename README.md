@@ -49,6 +49,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 33 | IPv6 Static Routes		 |
 | Day 34 | Standard ACLs		 |
 | Day 35 | Extended ACLs		 |
+| Day 36 | CDP & LLDP			 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
