@@ -50,6 +50,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 34 | Standard ACLs		 |
 | Day 35 | Extended ACLs		 |
 | Day 36 | CDP & LLDP			 |
+| Day 37 | NTP				 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
