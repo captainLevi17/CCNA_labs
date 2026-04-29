@@ -51,6 +51,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 35 | Extended ACLs		 |
 | Day 36 | CDP & LLDP			 |
 | Day 37 | NTP				 |
+| Day 38 | DNS				 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
