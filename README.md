@@ -52,6 +52,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 36 | CDP & LLDP			 |
 | Day 37 | NTP				 |
 | Day 38 | DNS				 |
+| Day 39 | DHCP				 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
