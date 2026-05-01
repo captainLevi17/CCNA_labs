@@ -53,6 +53,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 37 | NTP				 |
 | Day 38 | DNS				 |
 | Day 39 | DHCP				 |
+| Day 40 | SNMP				 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
