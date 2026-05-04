@@ -54,6 +54,8 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 38 | DNS				 |
 | Day 39 | DHCP				 |
 | Day 40 | SNMP				 |
+| Day 41 | Syslog			 |
+
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
