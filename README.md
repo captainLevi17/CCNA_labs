@@ -55,6 +55,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 39 | DHCP				 |
 | Day 40 | SNMP				 |
 | Day 41 | Syslog			 |
+| Day 42 | SSH				 |
 
 ## Purpose
 
