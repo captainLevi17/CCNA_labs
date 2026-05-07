@@ -57,6 +57,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 41 | Syslog			 |
 | Day 42 | SSH				 |
 | Day 43 | TFTP & FTP			 |
+| Day 44 | Static NAT			 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
