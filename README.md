@@ -58,6 +58,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 42 | SSH				 |
 | Day 43 | TFTP & FTP			 |
 | Day 44 | Static NAT			 |
+| Day 45 | Dynamic NAT & PAT		 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
