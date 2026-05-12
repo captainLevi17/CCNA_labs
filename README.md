@@ -60,6 +60,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 44 | Static NAT			 |
 | Day 45 | Dynamic NAT & PAT		 |
 | Day 46 | Voice VLAN			 |
+| Day 47 | QoS				 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
