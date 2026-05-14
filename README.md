@@ -61,6 +61,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 45 | Dynamic NAT & PAT		 |
 | Day 46 | Voice VLAN			 |
 | Day 47 | QoS				 |
+| Day 49 | Port Security 		 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
