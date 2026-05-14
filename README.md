@@ -62,6 +62,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 46 | Voice VLAN			 |
 | Day 47 | QoS				 |
 | Day 49 | Port Security 		 |
+| Day 50 | DHCP Snooping		 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
