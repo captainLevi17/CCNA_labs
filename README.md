@@ -63,6 +63,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 47 | QoS				 |
 | Day 49 | Port Security 		 |
 | Day 50 | DHCP Snooping		 |
+| Day 51 | Dynamic ARP Inspection	 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
