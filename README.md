@@ -64,6 +64,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 49 | Port Security 		 |
 | Day 50 | DHCP Snooping		 |
 | Day 51 | Dynamic ARP Inspection	 |
+| Day 52 | HSRP & STP Synchronization	 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
