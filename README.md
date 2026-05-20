@@ -65,6 +65,7 @@ Course: https://www.youtube.com/c/JeremysITLab
 | Day 50 | DHCP Snooping		 |
 | Day 51 | Dynamic ARP Inspection	 |
 | Day 52 | HSRP & STP Synchronization	 |
+| Day 53 | GRE Tunnels			 |
 ## Purpose
 
 * Practice networking concepts for the CCNA exam
